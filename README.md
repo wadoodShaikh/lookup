@@ -12,7 +12,7 @@ Manage your daily tasks, mark them complete, and keep track of your productivity
 
 ## 📸 Preview 
 Example:  
-![App Screenshot](public/screenshot.png)
+![App Screenshot](public/screenshot.PNG)
 
 ---
 
