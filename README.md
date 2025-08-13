@@ -1,4 +1,4 @@
-# 📝 To-Do List App (Vite + React)
+<img width="1920" height="899" alt="image" src="https://github.com/user-attachments/assets/e74c7af8-d38e-462e-b9a5-655448b122c1" /># 📝 To-Do List App (Vite + React)
 
 A minimal and fast **To-Do List web application** built with **Vite** and **React**.  
 Manage your daily tasks, mark them complete, and keep track of your productivity — all in a simple, clean interface.
@@ -6,7 +6,7 @@ Manage your daily tasks, mark them complete, and keep track of your productivity
 ---
 
 ## 🚀 Live Demo
-[Live App](https://USERNAME.github.io/REPO-NAME/) 
+[Live App](https://wadoodshaikh.github.io/lookup/) 
 
 ---
 
